@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CircadiaHealth/precache-manifest.6e80606c7f276b27639b2d42a9f7ac22.js"
+  "/CircadiaHealth/precache-manifest.9437a20f9c23a9d9e0b75d90d130add4.js"
 );
 
 self.addEventListener('message', (event) => {
